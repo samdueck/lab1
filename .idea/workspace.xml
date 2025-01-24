@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb2926c4-0fb2-4448-aafb-1a75a23b058a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/webpage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     "JavaScript Debug.webpage.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "sidebar__branch",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Documents/BCIS/COSC224/lab1/lab1",
     "node.js.detected.package.eslint": "true",
@@ -75,6 +76,8 @@
       <workItem from="1737574639117" duration="171000" />
       <workItem from="1737574832989" duration="208000" />
       <workItem from="1737682752262" duration="1130000" />
+      <workItem from="1737684185201" duration="67000" />
+      <workItem from="1737684325152" duration="3054000" />
     </task>
     <servers />
   </component>
